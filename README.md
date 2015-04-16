@@ -6,15 +6,15 @@
 <div style="height: auto; padding-top: 2%; padding-bottom: 20%; background: transparent; padding-left: 5%;">
 <div class="aa" style="margin: 0px auto; background: transparent; padding-bottom: 40px;">
 
-<div class="bb blackberry"><a href="http://ispsurgical.com/dr-stephen-foster/"><img src="http://ispsurgical.com/wp-content/uploads/2015/04/Dr.Fos_.RC_.png" alt="Dr. Stephen Foster" /></a>
-<div class="text"><a href="http://ispsurgical.com/dr-stephen-foster/">Dr. Stephen Foster</a></div>
+<div class="bb blackberry"><a href="#"><img src="http://ispsurgical.com/wp-content/uploads/2015/04/Dr.Fos_.RC_.png" alt="Dr. Stephen Foster" /></a>
+<div class="text"><a href="#">Dr. Stephen Foster</a></div>
 </div>
 
-<div class="bb blackberry"><a href="http://ispsurgical.com/dr-fay/"><img src="http://ispsurgical.com/wp-content/uploads/2015/01/Dr.F.png" alt="Dr.Fay" /></a>
-<div class="text"><a href="http://ispsurgical.com/dr-fay/">Dr. Aaron Fay</a></div>
+<div class="bb blackberry"><a href="#"><img src="#" alt="Dr.Fay" /></a>
+<div class="text"><a href="#/">Dr. Aaron Fay</a></div>
 </div>
-<div class="bb blackberry"><a href="http://ispsurgical.com/roberto-pineda/"><img src="http://ispsurgical.com/wp-content/uploads/2015/01/Dr.P.png" alt="Dr. Roberto Pineda" /></a>
-<div class="text"><a href="http://ispsurgical.com/roberto-pineda/">Dr. Roberto Pineda</a></div>
+<div class="bb blackberry"><a href="#"><img src="#" alt="Dr. Roberto Pineda" /></a>
+<div class="text"><a href="#">Dr. Roberto Pineda</a></div>
 </div>
 <div class="bb blackberry"><a href="http://ispsurgical.com/wilson-ko/"><img src="http://ispsurgical.com/wp-content/uploads/2015/01/Dr.k.png" alt="Dr. Wilson Ko" /></a>
 <div class="text"><a href="http://ispsurgical.com/wilson-ko/">Dr. Wilson Ko</a></div>
